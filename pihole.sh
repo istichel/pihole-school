@@ -1,6 +1,4 @@
 #!/bin/bash
-
-for p in (filter.txt)
-do
-    echo "${p}"
-done
+while read p; do
+  echo "$p"
+done <filter.txt
