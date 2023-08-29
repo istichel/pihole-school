@@ -16,4 +16,9 @@ voodoo
 supercell
 sybogames
 rovio
+fallout
+bethesda
+uplay
+ubisoft
+epic
 
