@@ -21,4 +21,5 @@ bethesda
 uplay
 ubisoft
 epic
+ea.com
 
