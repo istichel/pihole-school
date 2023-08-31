@@ -34,3 +34,4 @@ epicgames.com
 ea.com
 krunker.io
 steampowered.com
+king.com
