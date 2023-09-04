@@ -40,3 +40,7 @@ steampowered.com
 king.com
 browsergames.de
 crazygames.com
+snake.io
+diep.io
+paper.io
+paper-io.com
