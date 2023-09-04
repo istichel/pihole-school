@@ -45,3 +45,4 @@ diep.io
 paper.io
 paper-io.com
 whatsapp.com
+discord.com
