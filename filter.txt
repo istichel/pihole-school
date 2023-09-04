@@ -44,3 +44,4 @@ snake.io
 diep.io
 paper.io
 paper-io.com
+whatsapp.com
