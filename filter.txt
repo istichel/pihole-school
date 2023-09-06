@@ -42,6 +42,7 @@ browsergames.de
 crazygames.com
 snake.io
 diep.io
+digdig.io
 paper.io
 paper-io.com
 whatsapp.com
